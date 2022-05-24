@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/connector-common/connector-common.iml" filepath="$PROJECT_DIR$/connector-common/connector-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connector-example/connector-example.iml" filepath="$PROJECT_DIR$/connector-example/connector-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connector-file/connector-file.iml" filepath="$PROJECT_DIR$/connector-file/connector-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/connector-mysql/connector-mysql.iml" filepath="$PROJECT_DIR$/connector-mysql/connector-mysql.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spi-example.iml" filepath="$PROJECT_DIR$/spi-example.iml" />
+    </modules>
+  </component>
+</project>
